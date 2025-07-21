@@ -138,7 +138,6 @@ def prompt_optimize_resume(user_data):
                         - Certification titles
                         - Core technical skills
 
-                        ## calculate the ATS Score and compare with before and after enhancement
                         """
     full_resume_text = "\n\n".join(user_data["resume_text"])
     job_description = user_data["job_description"]
