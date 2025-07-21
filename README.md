@@ -47,13 +47,16 @@ Resume_Optimizer/
    ```bash
    git clone https://github.com/yourusername/resume-optimizer.git
    cd resume-optimizer
+   
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+   
 3. **Set up environment variables**
-   -- Create a .env file with your Google API Key:
+   Create a .env file with your Google API Key:
    GOOGLE_API_KEY=your_google_api_key
-4. **Run the app**
+   
+5. **Run the app**
     ```bash
     streamlit run frontend.py
 ---
