@@ -52,7 +52,7 @@ Resume_Optimizer/
    ```bash
    pip install -r requirements.txt
    
-3. **Set up environment variables**
+3. **Set up environment variables:**
    Create a .env file with your Google API Key:
    GOOGLE_API_KEY=your_google_api_key
    
